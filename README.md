@@ -1,6 +1,6 @@
 # heroes
 <h4>Este app lista os hérois da marvel que começam pela letra A</h4>
-<p>Mais informações em </p>https://developer.marvel.com/
+<p>Mais informações em https://developer.marvel.com/ </p>
 
 <h1>Começando</h1>
 
@@ -18,8 +18,8 @@
 
 <h4>Abra uma nova aba no terminal</h4>
 <h5>Para android</h5>
-react-native run-android
+<p>react-native run-android</p>
 
 <h5>Para iOS</h5>
-react-native run-ios
+<p>react-native run-ios</p>
 
