@@ -73,6 +73,7 @@ const styles = StyleSheet.create({
   list: {
     flexDirection: 'row',
     flexWrap: 'wrap',
+    justifyContent: 'center'
   }
 
 });
